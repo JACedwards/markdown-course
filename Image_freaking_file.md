@@ -4,14 +4,23 @@
 - Long walks on the beach
 - Disco dancing
 - Learning and git
-1 ordered list
-I ordered list
-
-* Item 1
-* Item 2
-*   Item 3
-
-1. Item 1
-2. item 2
-3.  1. Item 2a
+1. This should be ordered
+2. List
   
+*This will be italicized*
+
+_This will also be italized_
+
+**This will be bold**
+
+### Skills
+
+Below is a list of my **technical skills**:
+
+#### _Programming_
+- Ruby
+- Python
+
+#### _Collaboration_
+- SuckHub
+- Stupid
